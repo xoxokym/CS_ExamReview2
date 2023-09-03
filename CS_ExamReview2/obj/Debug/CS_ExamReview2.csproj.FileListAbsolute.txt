@@ -1,0 +1,7 @@
+D:\Users\User\Desktop\CS_ExamReview2\obj\Debug\CS_ExamReview2.csproj.AssemblyReference.cache
+D:\Users\User\Desktop\CS_ExamReview2\obj\Debug\CS_ExamReview2.csproj.CoreCompileInputs.cache
+D:\Users\User\Desktop\CS_ExamReview2\bin\Debug\CS_ExamReview2.exe.config
+D:\Users\User\Desktop\CS_ExamReview2\bin\Debug\CS_ExamReview2.exe
+D:\Users\User\Desktop\CS_ExamReview2\bin\Debug\CS_ExamReview2.pdb
+D:\Users\User\Desktop\CS_ExamReview2\obj\Debug\CS_ExamReview2.exe
+D:\Users\User\Desktop\CS_ExamReview2\obj\Debug\CS_ExamReview2.pdb
